@@ -1,0 +1,33 @@
+{
+    "name": "MMM-DublinRTPI",
+    "version": "1.0.0",
+    "description": "A MagicMirror module to show bus, luas and rail arrival times.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/galaktor/MMM-DublinRTPI.git"
+    },
+    "keywords": [
+        "mmm",
+        "public transport",
+        "magic mirror",
+        "smart mirror",
+        "dublin bus",
+        "dublin luas",
+        "irish rail",
+        "module"
+    ],
+    "author": {
+        "name": "Raph Estrada",
+        "email": "galaktor@gmx.de",
+        "url": "http://raph.es"
+    },
+    "contributors": "https://github.com/galaktor/MMM-DublinRTPI/graphs/contributors",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/galaktor/MMM-DublinRTPI/issues"
+    },
+    "homepage": "http://github.com/galaktor/MMM-DublinRTPI",
+    "dependencies": {
+        "request": "2.x"
+    }
+}
